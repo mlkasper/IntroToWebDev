@@ -1,0 +1,41 @@
+article p { 
+	text-align: justify; 
+	text-indent: 25px; 
+}
+
+h1 {
+	font-size: 48px;	
+}
+.post-heading {
+	color: #006633;
+	font-size: 1.8em;	
+}
+.hero-image { 
+	float: left; 
+	width: 640px; 
+}
+.article-thumbs { 
+	float: clear; 
+	align-content: center; 
+}
+.article-thumbs img{ 
+	width: 200px; 
+}
+.post-heading { 
+	align-content: center; 
+}
+#main-nav	{
+	font-size: 1.3em;	
+}
+#main-nav a { 
+	text-decoration: none; 
+}
+#main-nav a:active, a:focus, a:hover { 
+	text-decoration: underline; 
+}
+
+blockquote	{
+	color: #33ccff;
+	font-size: 1.3em;
+	font-style: italic; 
+}
