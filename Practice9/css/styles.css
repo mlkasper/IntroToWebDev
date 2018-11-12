@@ -71,7 +71,7 @@ header blockquote	{
 	width: 60%;
 	float: left;
 	margin-bottom: 30px;
-	background-image: url("../img/circuit.png");
+	background-image: url("https://raw.githubusercontent.com/mlkasper/IntroToWebDev/master/Practice9/img/circuit.png");
 	background-repeat: repeat-y;
 	background: aliceblue;
 }
