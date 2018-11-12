@@ -1,0 +1,66 @@
+main {
+	background: #f0f8ff; 
+
+}
+.container {
+	width: 1020px;
+}
+#main h2 {
+	color: #626262; 
+	font-size: 2.5em; 
+	margin-top: 0px; 
+	margin-bottom: 5px;
+}
+#main p {
+	font-family: 'Dosis', sans-serif;
+	font-size: 1.2em; 
+	text-indent: 30px; 
+	margin-top: 10px; 
+}
+.thumbs {
+	text-align: center;
+	clear: both; 
+}
+.thumbs img{
+	padding-left: 30px; 
+}
+.image-center {
+	display: block;
+	margin-left: auto; 
+	margin-right: auto; 
+	width: 80%; 
+}
+#sidebar {
+	width: 30%;
+	float:right;
+	background: #C8C8C8;
+	padding: 15px;
+	margin-right: 5px; 
+	min-height: 100px;
+	margin-top: 10px;
+}
+#sidebar blockquote {
+	font-size: 1.65em; 
+	margin: 0px; 
+	color: blue;
+}
+#main h3{
+	padding-top: 20px; 
+	color: black; 
+	font-size: 1.5em; 
+}
+#main ul {
+	list-style-type: square;
+	padding-bottom: 20px; 
+	
+}
+#main a, #main a:visited {
+	text-decoration: none;
+	color: black;
+	font-size: 1.5em; 
+}
+#main a:hover, #main a:focus, #main a:active {
+	color: gray; 
+	font-size: 1.5em;
+	text-decoration: underline; 
+}
